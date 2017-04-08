@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\receive_call.xml",
+        "source": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\menu\\receive_call.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call.xml",
+        "source": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\menu\\call.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\make_call.xml",
+        "source": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\menu\\make_call.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hw.dt83.udpchat.test">
+
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="17" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="hw.dt83.udpchat"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for hw.dt83.udpchat"/>
+</manifest>

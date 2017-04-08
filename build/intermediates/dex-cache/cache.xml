@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\Android_Task\android-udp-audio-chat-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Task\android-udp-audio-chat-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d23709371dc00eec4c1d25875efee61ae91f3450">
+        <dex dex="D:\Android\Android_Task\android-udp-audio-chat-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1d0fa623175116d5df80eab7e2d572b3c65ec689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Task\android-udp-audio-chat-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14ead67309189b0d7b09da6425b6da9420207576">
+        <dex dex="D:\Android\Android_Task\android-udp-audio-chat-master\app\build\intermediates\pre-dexed\debug\instant-run_6d4028d0d87d8f72fe1a79e1d56ac52c71d85d83.jar" />
+    </item>
+
+</items>

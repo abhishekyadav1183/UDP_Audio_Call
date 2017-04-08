@@ -1,0 +1,391 @@
+[
+    {
+        "outputFile": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 41,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 52,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 44,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 45,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 45,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 47,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 47,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 44,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 44,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 54,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 54,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 52,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 52,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 58,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 58,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 41,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 41,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 41,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 41,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 68,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 68,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 44,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 44,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 60,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 60,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 63,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 63,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 50,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 50,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_Task\\android-udp-audio-chat-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
